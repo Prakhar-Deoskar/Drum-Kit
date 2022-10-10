@@ -26,7 +26,7 @@ function makeSound(key) {
   switch (key) {
       
     case "w":
-      var tom1 = new Audio("sounds/tom-1.mp3");
+      var tom1 = new Audio("https://github.com/Prakhar-Deoskar/Drum-Kit/blob/main/sounds/tom-1.mp3?raw=true");
       tom1.play();
       break;
 
